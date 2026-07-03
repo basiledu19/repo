@@ -26,3 +26,15 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified (Rootless)
+Version: 116.0
+Architecture: iphoneos-arm64
+Description: Enables the ability to install unsigned, ad-hoc, or pseudo-signed IPA packages on iOS. Optimized for arm64 rootless jailbreaks.
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Author: Karen/あけみ <karen@akemi.ai>
+Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm64.akemi-git.deb
+Size: 49472
+MD5sum: d6a31911e878b83e47c6525fa29ecef1
+Section: System
+
